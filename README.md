@@ -1,4 +1,3 @@
-not empty
 updated and ready for colab
 *Project Title:* _Vagrant_
 Task: 0. Create and setup your Git and GitHub account
@@ -15,4 +14,3 @@ Task: 1. Hello Ubuntu
 3)ssh into Ubuntu VM
 4) Run 'uname' command without options
 5) Type anser into file 0x00-vagrant + push to origin
-My first commit
