@@ -1,4 +1,3 @@
-updated and ready for colab
 *Project Title:* _Vagrant_
 Task: 0. Create and setup your Git and GitHub account
 1) Config basic info
